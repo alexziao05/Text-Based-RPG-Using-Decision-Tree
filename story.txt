@@ -1,6 +1,15 @@
-1 | You wake up in a forest clearing. There are two paths. | 2 | 3
-2 | You follow the path to the left and encounter a river. | 4 | 5
-3 | You go right and find an old cabin. | 5 | 6
-4 | You swim across the river and find a treasure chest. | -1 | -1
-5 | You find a hidden passageway that leads to a secret room. | 7 | -1
-6 | The cabin is empty. You find a trapdoor leading downwards. | -1
+1 | You have $100. Do you invest in SoFi or SoundHound? | 2 | 3 
+2 | Convertible senior note offering from SoFi -- SoFi sinks from $10 to $6.50. Buy or Sell? | 4 | 5
+3 | Nividia invests $3 million into SoundHound. Buy or Wait? | 6 | 7 
+4 | SoFi continues sinking to $5.50. Do you want to continue accumulating? | 8 | 9 
+5 | SoFi sinks to $5.50. Congratulations! Do you want to buy the dip? Yes or No? | 10 | 11 
+6 | SoundHound soars 100% to $4.50. Nicely done! Take profits or continue holding? | 12 | 13
+7 | Sorry, SoundHound soared 100%, you missed out on some big wins. Buy now or continue waiting? | 14 | 15 
+8 | SoFi soars to $11 on 50 bps rate cut. Good job! You made 100% return in 2 months. | -1 | -1 
+9 | You bought high and sold low. Sorry, you missed out on the opportunity to double your money. | -1 | -1 
+10 | Good job with the DCA! The stock has soared to $11. | -1 | -1 
+11 | While you prevented some losses, you missed out on some big wins. Better luck next time! | -1 | -1
+12 | SoundHound soars to $5.50 on 50 bps rate cut. You are truly a buy and hold investor! Congratulations! | -1 | -1 
+13 | It was less risky by selling, but this time, you missed out. It's now $5.50. Better luck next time! | -1 | -1 
+14 | Good job! While you missed out on the 100% run, you managed to sneak in some profits at the very end. It's now $5.50! | -1 | -1 
+15 | Sorry! Once again, you missed out on the uptrend. It's now $5.50. Tough luck! | -1 | -1 
