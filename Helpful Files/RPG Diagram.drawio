@@ -1,0 +1,97 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.8.3">
+  <diagram name="Page-1" id="ZhrRj3eEgfpife1fLoKn">
+    <mxGraphModel dx="2840" dy="1272" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FW1yzzfLCZ6uYbJURw9d-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FW1yzzfLCZ6uYbJURw9d-1" target="FW1yzzfLCZ6uYbJURw9d-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FW1yzzfLCZ6uYbJURw9d-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FW1yzzfLCZ6uYbJURw9d-1" target="FW1yzzfLCZ6uYbJURw9d-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FW1yzzfLCZ6uYbJURw9d-1" value="1. You have $100, do you invest in SoFi or SoundHound?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="50" width="325" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FW1yzzfLCZ6uYbJURw9d-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FW1yzzfLCZ6uYbJURw9d-4" target="FW1yzzfLCZ6uYbJURw9d-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FW1yzzfLCZ6uYbJURw9d-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FW1yzzfLCZ6uYbJURw9d-4" target="FW1yzzfLCZ6uYbJURw9d-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FW1yzzfLCZ6uYbJURw9d-4" value="2. SoFi: Convertible Senior Note Offering -- Stock Plummets from $10 to $6.50. Buy or Sell?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="160" width="195" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FW1yzzfLCZ6uYbJURw9d-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FW1yzzfLCZ6uYbJURw9d-5" target="FW1yzzfLCZ6uYbJURw9d-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FW1yzzfLCZ6uYbJURw9d-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FW1yzzfLCZ6uYbJURw9d-5" target="FW1yzzfLCZ6uYbJURw9d-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FW1yzzfLCZ6uYbJURw9d-5" value="3. SoundHound: Nvidia invests $3 million into company. Buy or Wait?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="165" width="215" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FW1yzzfLCZ6uYbJURw9d-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FW1yzzfLCZ6uYbJURw9d-8" target="FW1yzzfLCZ6uYbJURw9d-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FW1yzzfLCZ6uYbJURw9d-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FW1yzzfLCZ6uYbJURw9d-8" target="FW1yzzfLCZ6uYbJURw9d-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FW1yzzfLCZ6uYbJURw9d-8" value="4. Buy Shares: Sofi Continues sinking to $5.50, do you want to continue accumulating?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="320" width="185" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="FW1yzzfLCZ6uYbJURw9d-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FW1yzzfLCZ6uYbJURw9d-9" target="FW1yzzfLCZ6uYbJURw9d-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FW1yzzfLCZ6uYbJURw9d-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FW1yzzfLCZ6uYbJURw9d-9" target="FW1yzzfLCZ6uYbJURw9d-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FW1yzzfLCZ6uYbJURw9d-9" value="5. Sell Shares: Sofi sinks to $5.50. Congratulations! Do you want to buy the dip?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="310" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FW1yzzfLCZ6uYbJURw9d-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FW1yzzfLCZ6uYbJURw9d-10" target="FW1yzzfLCZ6uYbJURw9d-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FW1yzzfLCZ6uYbJURw9d-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FW1yzzfLCZ6uYbJURw9d-10" target="FW1yzzfLCZ6uYbJURw9d-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FW1yzzfLCZ6uYbJURw9d-10" value="6. Buy Shares: SOUN soars 100% to $4.50. Nicely done! Take profit or continue holding?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="315" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FW1yzzfLCZ6uYbJURw9d-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FW1yzzfLCZ6uYbJURw9d-11" target="FW1yzzfLCZ6uYbJURw9d-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FW1yzzfLCZ6uYbJURw9d-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FW1yzzfLCZ6uYbJURw9d-11" target="FW1yzzfLCZ6uYbJURw9d-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FW1yzzfLCZ6uYbJURw9d-11" value="7. Wait: Sorry, SOUN soared 100%, you missed out on some big wins. Buy now or continue waiting?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="315" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FW1yzzfLCZ6uYbJURw9d-15" value="8. Buy: Sofi soars to $11 bucks on 50 bps rate cut. Good job! You made 100% return in 2 months! " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-850" y="500" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FW1yzzfLCZ6uYbJURw9d-18" value="9. No buy: You bought high and sell low. Sorry, you missed out on the chance to double your money." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="500" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FW1yzzfLCZ6uYbJURw9d-20" value="10. Good job with the DCA! The stock has soared to $11. Nice Timing!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-165" y="500" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FW1yzzfLCZ6uYbJURw9d-21" value="11. While you saved some losses, you missed out on some big wins. Better luck next time!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="500" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FW1yzzfLCZ6uYbJURw9d-28" value="12. Hold: SOUN soars to $5.50 on 50 bps cut. You are truly a buy and hold investor! Congratulations!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="500" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FW1yzzfLCZ6uYbJURw9d-29" value="13. Take Profit: It was less risky by selling, but this time, you missed out. It&#39;s now $5.50. Better luck next time!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="500" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FW1yzzfLCZ6uYbJURw9d-33" value="14. Buy: Good job, while you missed out on the 100% gain, you managed to sneak in some profits at the every end. It&#39;s now $5.50!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="500" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FW1yzzfLCZ6uYbJURw9d-35" value="15. Continue waiting: Sorry, once again you missed out on the uptrend. It&#39;s $5.50. Tough luck!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="500" width="200" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
