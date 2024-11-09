@@ -42,6 +42,12 @@ public:
 
                 int num = stoi(elements[0]); 
                 string desc = elements[1]; 
+
+                // Remove leading space  
+                if (desc[0] == ' ') {
+                    desc.erase(0, 1);
+                }
+
                 int leftNum = stoi(elements[2]);
                 int rightNum = stoi(elements[3]);
 
@@ -98,9 +104,15 @@ public:
         }
 
         while (current) {
-            cout << current->data.description << endl; 
 
-            cout << "Choose left (L) or right (R)"; 
+            cout << current->data.description << endl; 
+            
+            if (current->data.leftEventNumber == -1 || current->data.rightEventNumber == -1) {
+                cout << "The End!" << endl; 
+                break; 
+            }
+
+            cout << "Choose left (L) or right (R): "; 
             char choice; 
             cin >> choice; 
 
