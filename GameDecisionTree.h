@@ -46,7 +46,7 @@ public:
                 int rightNum = stoi(elements[3]);
 
                 Story storyElement(desc, num, leftNum, rightNum); 
-                insert(root, storyElement); 
+                root = insertNode(root, storyElement); 
             }
 
             myStory.close(); 
@@ -56,15 +56,33 @@ public:
         }
     }
 
-    Node<T>* insert(Node<T>* root, Story storyElement) {
-        if (root  == nullptr) {
+    Node<T>* insertNode(Node<T>* root, Story storyElement) {
+        
+        if (root == nullptr) {
             return new Node<T>(storyElement); 
         }
 
-        if (storyElement.eventNumber < root->data.eventNumber) {
-            root->left = insert(root->left, storyElement); 
+        int parentNode = (storyElement.eventNumber % 2 == 0) ? (storyElement.eventNumber - 2) / 2 : (storyElement.eventNumber - 1) / 2; ; 
+        
+        if (root->data.eventNumber == parentNode) {
+            if (storyElement.eventNumber % 2 == 0) {
+                if (root->right == nullptr) {
+                    root->right = new Node<T>(storyElement); 
+                } else {
+                    insertNode(root->right, storyElement); 
+                }
+            } else {
+                if (root->left == nullptr) {
+                    root->left = new Node<T>(storyElement); 
+                } else {
+                    insertNode(root->left, storyElement); 
+                }
+            }
         } else {
-            root->right = insert(root->right,storyElement); 
+            if (root->left != nullptr || root->right != nullptr) {
+                insertNode(root->left, storyElement); 
+                insertNode(root->right, storyElement);
+            }
         }
 
         return root; 
@@ -72,7 +90,26 @@ public:
 
     // Function to start the game and traverse the tree based on user input
     void playGame() {
-        
+        Node<T>* current = root; 
+
+        if (!current) {
+            cout << "Story is empty. Please load the story!" << endl; 
+            return; 
+        }
+
+        while (current) {
+            cout << current->data.description << endl; 
+
+            cout << "Choose left (L) or right (R)"; 
+            char choice; 
+            cin >> choice; 
+
+            if (choice == 'L' || choice == 'l') {
+                current = current->left; // Move to left child
+            } else if (choice == 'R' || choice == 'r') {
+                current = current->right; // Move to right child
+            }
+        }
     }
 };
 
